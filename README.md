@@ -26,4 +26,6 @@ The code requires a Jupyter Notebook environment to run with the following libra
 * [scikit-learn](https://pypi.org/project/scikit-learn/)
 * [SciPy](https://pypi.org/project/scipy/)
 
+These can be installed using `pip install <package-name>` on the command line.
+
 > Note - MediaPipe, Dlib, and face_recognition require additional visual studio dependencies to be installed. Please refer to the respective documentation available online for detailed instructions.
